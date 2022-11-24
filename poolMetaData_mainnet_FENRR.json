@@ -3,5 +3,5 @@
 "description": "Fenrir project stake pool",
 "ticker": "FENRR",
 "homepage": "https://l3labs.org/fenrir",
-"extended": "https://fenrr.l3labs.org/poolmeta/extended.json"
+"extended": "https://fenrrmeta.l3labs.org/poolmeta/FENRR/extended.json"
 }
