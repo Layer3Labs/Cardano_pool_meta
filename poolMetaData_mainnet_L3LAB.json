@@ -3,5 +3,5 @@
 "description": "layer-3 Labs Official Stake Pool",
 "ticker": "L3LAB",
 "homepage": "https://www.l3labs.org",
-"extended": "https://pool.l3labs.org/poolmeta/extended.json"
+"extended": "https://poolmeta.l3labs.org/poolmeta/L3LAB/extended.json"
 }
